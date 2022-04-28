@@ -2,5 +2,4 @@ from hex import *
 
 ts = tileSet()
 
-ts.all()
-
+ts.all(255,255,255)
